@@ -45,7 +45,6 @@ npm run typecheck # strict TypeScript check
 ├── package.json               # scripts & deps
 ├── vite.config.js             # Vite + React + Tailwind v4
 ├── tsconfig.json              # strict TypeScript
-├── LICENSE                    # MIT
 ├── .gitignore
 └── src/
     ├── main.tsx               # React entry point
@@ -82,6 +81,4 @@ npm run build
 npx gh-pages -d dist
 ```
 
-## License
 
-MIT — do good things with your money.
