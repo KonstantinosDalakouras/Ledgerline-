@@ -71,7 +71,6 @@ npm run typecheck # strict TypeScript check
         └── Reveal.tsx         # IntersectionObserver scroll reveal
 ```
 
-
 ```
 
 
