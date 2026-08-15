@@ -71,14 +71,7 @@ npm run typecheck # strict TypeScript check
         └── Reveal.tsx         # IntersectionObserver scroll reveal
 ```
 
-## Publishing to GitHub Pages
 
-1. In `vite.config.ts`, set `base: "/<repo-name>/"`.
-2. Build and deploy:
-
-```bash
-npm run build
-npx gh-pages -d dist
 ```
 
 
